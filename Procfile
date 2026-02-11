@@ -1,1 +1,1 @@
-web: gunicorn cm_backend.wsgi
+web: gunicorn cms.wsgi
