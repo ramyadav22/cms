@@ -1,1 +1,1 @@
-gunicorn cm_backend.wsgi
+gunicorn cm_backend.wsgi:application
